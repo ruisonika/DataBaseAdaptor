@@ -1,13 +1,8 @@
 <?php 
 
-/***
-
-
-
-
-***/
 
 class dataBase {
     
     
+
 }
